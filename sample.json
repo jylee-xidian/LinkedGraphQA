@@ -1,0 +1,48 @@
+[
+  {
+    "question_id": "C1",
+    "question": "What year was M.O.V.E first formed?",
+    "domain": "music",
+    "entities": [{"id": "Q285547", "label": "Move"}],
+    "answer_text": "1997"
+  },
+  {
+    "question_id": "C2",
+    "question": "What year was the inception of the soccer club Manchester United F.C.?",
+    "domain": "soccer",
+    "entities": [{"id": "Q18656", "label": "Manchester United F.C."}],
+    "answer_text": "1878"
+  },
+  {
+    "question_id": "C3",
+    "question": "Who were the creators of the situation comedy known as The Mary Tyler Moore Show?",
+    "domain": "tvseries",
+    "entities": [
+      {"id": "Q615944", "label": "The Mary Tyler Moore Show"},
+      {"id": "Q95125", "label": "James L. Brooks"},
+      {"id": "Q4730499", "label": "Allan Burns"}
+    ],
+    "answer_text": "James L. Brooks and Allan Burns"
+  },
+  {
+    "question_id": "C4",
+    "question": "Which city is located on both the European and Asian continents?",
+    "domain": "geography",
+    "entities": [{"id": "Q406", "label": "Istanbul"}],
+    "answer_text": "Istanbul"
+  },
+  {
+    "question_id": "C5",
+    "question": "What technology concept connects The Matrix and AI?",
+    "domain": "movies",
+    "entities": [{"id": "Q:matrix", "label": "The Matrix"}],
+    "answer_text": "Simulation Theory"
+  },
+  {
+    "question_id": "C6",
+    "question": "Which scientist is associated with the device that influenced Alan Turing's early work?",
+    "domain": "science",
+    "entities": [{"id": "P:turing", "label": "Alan Turing"}],
+    "answer_text": "Charles Babbage"
+  }
+]
